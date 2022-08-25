@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 #main {    
-    background: url('../assets/img/me_background.jpg') no-repeat center right fixed; 
+    background: url('../assets/img/me_background.jpg') no-repeat center right; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
